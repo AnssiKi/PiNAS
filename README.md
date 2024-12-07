@@ -42,7 +42,7 @@ This project showcases a Network-Attached Storage (NAS) system built using a Ras
 -From services tab enable SSH and select to use password authentication<br>
 -Select "Save"<br>
 -After configuring these options select WRITE and YES at the Raspberry Pi Imager, the OS will install now.<br>
--Insert the SD card to Raspberry Pi and connect ethernet and power supply cables.
+-Insert the SD card to Raspberry Pi and connect ethernet and power supply cables.<br>
 
 #Installation (openmediavault to Raspberry Pi)
 
@@ -52,16 +52,21 @@ This project showcases a Network-Attached Storage (NAS) system built using a Ras
 -Once logged in, update your Pi:<br>
 -`sudo apt update && sudo apt upgrade`<br>
 -After the update install openmediavault:<br>
--`wget -O - https://raw.githubusercontent.com/OpenMediaVault-Plugin-Developers/installScript/master/install | sudo bash`
+-`wget -O - https://raw.githubusercontent.com/OpenMediaVault-Plugin-Developers/installScript/master/install | sudo bash`<br>
 
 #Configuring openmediavault
 
 #Disclaimer:
 
--All content in this repository is for author's study and documentation practice purposes only.
--Contents of this repository is not to be used in production or education
--This repository is not to be referred as a valid source in production or educational environments.
--All referenced content belong to their rightful owners
+-All content in this repository is for author's study and documentation practice purposes only.<br>
+-Contents of this repository is not to be used in production or education<br>
+-This repository is not to be referred as a valid source in production or educational environments.<br>
+-All referenced content belong to their rightful owners<br>
+
+#Sources:
+
+-<a href="https://www.openmediavault.org">Openmediavault</a><br>
+-<a href="https://academy.networkchuck.com">Networkchuck</a><br>
 
 
 
