@@ -25,7 +25,6 @@ This project showcases a Network-Attached Storage (NAS) system built using a Ras
 * Raspberry Pi Imager
 * Raspberry OS Lite (64bit)
 * openmediavault NAS solution
-* openmediavault installation script:
 
 ## Network requirements
 
