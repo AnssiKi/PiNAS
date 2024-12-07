@@ -4,22 +4,22 @@ This project showcases a Network-Attached Storage (NAS) system built using a Ras
 
 # Main features
 
--Accessible file storage through a network share utilizing SMB service 
--User friendly administration with openmediavault
--Integrated disk management
--Support for multiple file sharing protocols (SMB, CIFS and NFS)
+-Accessible file storage through a network share utilizing SMB service<br>
+-User friendly administration with openmediavault<br>
+-Integrated disk management<br>
+-Support for multiple file sharing protocols (SMB, CIFS and NFS)<br>
 
 # Hardware
 
-Raspberry Pi 4 model B 8GB with power supply
-MicroSD card
-Memory card reader
-External strorage (Kingston Datatraveler 3.0 128GB used in this case)
-Switch/router/modem with Ethernet connection
-LAN cable
+Raspberry Pi 4 model B 8GB with power supply<br>
+MicroSD card<br>
+Memory card reader<br>
+External strorage (Kingston Datatraveler 3.0 128GB used in this case)<br>
+Switch/router/modem with Ethernet connection<br>
+LAN cable<br>
 
 # Software
 
-Raspberry Pi Imager
-Raspberry OS Lite (64bit)
-openmediavault NAS solution
+Raspberry Pi Imager<br>
+Raspberry OS Lite (64bit)<br>
+openmediavault NAS solution<br>
