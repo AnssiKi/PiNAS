@@ -63,18 +63,18 @@ TODO
 TODO
 
 
+#Sources:
 
-#Disclaimer:
+-<a href="https://www.openmediavault.org">Openmediavault</a><br>
+-<a href="https://academy.networkchuck.com">Networkchuck</a><br>
+
+**#Disclaimer:
 
 -All content in this repository is for author's study and documentation practice purposes only.<br>
 -Contents of this repository is not to be used in production or education<br>
 -This repository is not to be referred as a valid source in production or educational environments.<br>
 -All referenced content belong to their rightful owners<br>
-
-#Sources:
-
--<a href="https://www.openmediavault.org">Openmediavault</a><br>
--<a href="https://academy.networkchuck.com">Networkchuck</a><br>
+-Always verify the sources and make sure what you are doing when running scripts from the internet.**
 
 
 
