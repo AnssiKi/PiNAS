@@ -32,7 +32,7 @@ This project showcases a Network-Attached Storage (NAS) system built using a Ras
 * Internet connection
 * Static IP configuration is recommended for stable access.
 
-#Installation (Raspberry Pi OS to memory card)
+##Installation (Raspberry Pi OS to memory card)
 
 * Download and install <a href="https://www.raspberrypi.com/software/">Raspberry Pi Imager<a>
 * Insert the SD card to the SD card reader and run Raspberry Pi Imager
@@ -47,7 +47,7 @@ This project showcases a Network-Attached Storage (NAS) system built using a Ras
 * After configuring these options select WRITE and YES at the Raspberry Pi Imager, the OS will install now.
 * Insert the SD card to Raspberry Pi and connect ethernet and power supply cables.
 
-#Installation (openmediavault to Raspberry Pi)
+##Installation (openmediavault to Raspberry Pi)
 
 * Open a terminal and SSH to your Raspberry Pi:
 * `ssh <your_username>@xxx.xxx.xxx.xxx` <- your Pi's IP address. Check the IP address from your home router. The following prompt appears:
@@ -57,36 +57,22 @@ This project showcases a Network-Attached Storage (NAS) system built using a Ras
 * After the update install openmediavault:
 * `wget -O - https://raw.githubusercontent.com/OpenMediaVault-Plugin-Developers/installScript/master/install | sudo bash`
 
-#Configuring openmediavault
+##Configuring openmediavault
 
 TODO
 
-#Configuring network share on Windows 11
+##Configuring network share on Windows 11
 
 TODO
 
-
-#Sources:
+##Sources:
 
 * <a href="https://www.openmediavault.org">Openmediavault</a>
 * <a href="https://academy.networkchuck.com">Networkchuck</a>
 
-**#Disclaimer:
+**##Disclaimer:
 
-* All content in this repository is for author's study and documentation practice purposes only.
-* Contents of this repository is not to be used in production or education.
-* This repository is not to be referred as a valid source in production or educational environments.
+* All content in this repository is for author's study and documentation purposes only.
+* The contents are not intended for production or educational use.
+* Always verify sources and review scripts before running them.
 * All referenced content belong to their rightful owners.
-* Always verify the sources and make sure what you are doing when running scripts from the internet.
-
-
-
-
-
-
-
-
-
-
-
-
