@@ -59,11 +59,11 @@ This project showcases a Network-Attached Storage (NAS) system built using a Ras
 
 ## Configuring openmediavault
 
-TODO
+WIP
 
 ## Configuring network share on Windows 11
 
-TODO
+WIP
 
 ## Sources:
 
