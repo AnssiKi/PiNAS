@@ -1,15 +1,19 @@
 # PiNAS
 
-This project showcases a Network-Attached Storage (NAS) system built using a Raspberry Pi 4 running Debian Linux Sandworm 7.4.15-2. The system is powered by OpenMediaVault for easy configuration and management, designed to operate as a secure and efficient file storage solution on a local area network (LAN). Based on <a href ="https://youtu.be/gyMpI8csWis?si=il20hzJr9_SuEvVr">Networkchuck's YouTube video tutorial of the same subject </a>
+This project showcases a Network-Attached Storage (NAS) system built using a Raspberry Pi 4 running Debian Linux Sandworm 7.4.15-2. The system is powered by OpenMediaVault for easy configuration and management, designed to operate as a secure and efficient file storage solution on a local area network (LAN). Inspired by <a href ="https://youtu.be/gyMpI8csWis?si=il20hzJr9_SuEvVr">Networkchuck's YouTube video tutorial of the same subject </a>
 
-# Main features
+---------------
+
+## Features
 
 -Accessible file storage through a network share utilizing SMB service<br>
 -User friendly administration with openmediavault<br>
 -Integrated disk management<br>
 -Support for multiple file sharing protocols (SMB, CIFS and NFS)<br>
 
-# Hardware
+---------------
+
+## Hardware requirements
 
 -A computer with internet connection
 -Raspberry Pi 4 model B 8GB with power supply<br>
@@ -20,16 +24,23 @@ This project showcases a Network-Attached Storage (NAS) system built using a Ras
 -Switch/router/modem with Ethernet connection<br>
 -Ethernet cable cable<br>
 
-# Software
+---------------
+
+## Software requirements
 
 -Raspberry Pi Imager<br>
 -Raspberry OS Lite (64bit)<br>
 -openmediavault NAS solution<br>
--openmediavault installation script:<br> 
+-openmediavault installation script:<br>
 
-# Network setup
+---------------
 
--LAN with static IP configuration preferred<br>
+## Network requirements
+
+-Internet connection<br>
+-Static IP configuration is recommended for stable access.<br>
+
+---------------
 
 #Installation (Raspberry Pi OS to memory card)
 
