@@ -9,6 +9,10 @@ This project showcases a Network-Attached Storage (NAS) system built using a Ras
 * Integrated disk management
 * Support for multiple file sharing protocols (SMB, CIFS and NFS)
 
+## Prerequisites
+
+* General knowledge of Windows, Linux, computer hardware and networking
+
 ## Hardware requirements
 
 * A computer with internet connection
