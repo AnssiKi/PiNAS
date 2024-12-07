@@ -50,7 +50,8 @@ This project showcases a Network-Attached Storage (NAS) system built using a Ras
 
 * Open a terminal and SSH to your Raspberry Pi:
 * `ssh <your_username>@xxx.xxx.xxx.xxx` <- your Pi's IP address. Check the IP address from your home router. The following prompt appears:
-* ![image](https://github.com/user-attachments/assets/9fa86a1a-32ca-4d89-b0bf-bb4e2e736dc1) type in yes to continue.
+* ![image](https://github.com/user-attachments/assets/9fa86a1a-32ca-4d89-b0bf-bb4e2e736dc1)
+* Type in yes to continue.
 * Once logged in, update your Pi:
 * `sudo apt update && sudo apt upgrade`
 * After the update install openmediavault:
