@@ -4,10 +4,10 @@ This project showcases a Network-Attached Storage (NAS) system built using a Ras
 
 # Main features
 
-Accessible file storage through a network share utilizing SMB service 
-User friendly administration with openmediavault
-Integrated disk management
-Support for multiple file sharing protocols (SMB, CIFS and NFS)
+-Accessible file storage through a network share utilizing SMB service 
+-User friendly administration with openmediavault
+-Integrated disk management
+-Support for multiple file sharing protocols (SMB, CIFS and NFS)
 
 # Hardware
 
