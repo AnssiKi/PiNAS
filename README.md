@@ -54,7 +54,7 @@ This project showcases a Network-Attached Storage (NAS) system built using a Ras
 * Type in yes to continue.
 * Once logged in, update your Pi:
 * `sudo apt update && sudo apt upgrade`
-* After the update install openmediavault:
+* After the update run the script below to install openmediavault:
 * `wget -O - https://raw.githubusercontent.com/OpenMediaVault-Plugin-Developers/installScript/master/install | sudo bash`
 
 ## Configuring openmediavault
