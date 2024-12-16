@@ -22,7 +22,7 @@ This project showcases a Network-Attached Storage (NAS) system built using a Ras
 * Memory card reader
 * External strorage (Kingston Datatraveler 3.0 128GB used in this case)
 * Switch/router/modem with Ethernet connection
-* Ethernet cable cable
+* Ethernet cable
 
 ## Software requirements
 
